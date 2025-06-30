@@ -4,10 +4,10 @@ I'm a backend developer passionate about microservices, Spring Boot, and open-so
 
 ### 🔧 Tech Stack
 - 🌐 Java | Spring Boot | Hibernate
-- ⚙️ Python | Node.js | Express
-- 🔗 REST APIs | Postman | Axios
-- 🐳 Docker | MySQL | MongoDB | H2
-- 🛠️ Tools: Jupyter | Streamlit | VS Code | PyCharm | Excel
+- ⚙️ Python | C
+- 🔗 REST APIs | Postman |
+- 🐳 Docker | MySQL | PostgreSQL | H2
+- 🛠️ Tools: Jupyter | Streamlit | VS Code | PyCharm | Excel | Docker
 
 ### 💼 Projects
 - **Job Listing Management API**: RESTful API with Spring Boot and H2 DB to manage job posts (CRUD).
@@ -27,8 +27,13 @@ I'm a backend developer passionate about microservices, Spring Boot, and open-so
 
 ### 📫 Contact
 - 📧 Email: sankalpmohappatra2003@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/san7alp](https://linkedin.com/in/san7alp)
+- 🔗 LinkedIn: [linkedin.com/in/san7alp](https://linkedin.com/in/MSan7alp)
 - 💻 GitHub: [github.com/San7alp](https://github.com/San7alp)
+- ### 📄 Resume
+[Download My Resume](https://github.com/San7alp/San7alp/raw/main/Sankalp_Mohapatra_Resume.pdf)
+🧠 LeetCode: [leetcode.com/u/sankalpmohappatra2003](https://leetcode.com/u/sankalpmohappatra2003/)
+
+
 
 ---
 
