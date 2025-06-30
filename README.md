@@ -29,9 +29,13 @@ I'm a backend developer passionate about microservices, Spring Boot, and open-so
 - 📧 Email: sankalpmohappatra2003@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/san7alp](https://linkedin.com/in/MSan7alp)
 - 💻 GitHub: [github.com/San7alp](https://github.com/San7alp)
-- ### 📄 Resume
-[Download My Resume](https://github.com/San7alp/San7alp/raw/main/Sankalp_Mohapatra_Resume.pdf)
-🧠 LeetCode: [leetcode.com/u/sankalpmohappatra2003](https://leetcode.com/u/sankalpmohappatra2003/)
+- ### 📄 Resume:
+  [Download My Resume](https://github.com/San7alp/San7alp/raw/main/Sankalp_Mohapatra_Resume.pdf)
+- 🧠 LeetCode: [leetcode.com/u/sankalpmohappatra2003](https://leetcode.com/u/sankalpmohappatra2003/)
+  
+
+
+
 
 
 
