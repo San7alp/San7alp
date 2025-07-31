@@ -33,12 +33,3 @@ I'm a backend developer passionate about microservices, Spring Boot, and open-so
   [Download My Resume](https://github.com/San7alp/San7alp/raw/main/Sankalp_Mohapatra_Resume.pdf)
 - 🧠 LeetCode: [leetcode.com/u/sankalpmohappatra2003](https://leetcode.com/u/sankalpmohappatra2003/)
   
-
-
-
-
-
-
----
-
-_This README updates automatically with your GitHub activity!_
